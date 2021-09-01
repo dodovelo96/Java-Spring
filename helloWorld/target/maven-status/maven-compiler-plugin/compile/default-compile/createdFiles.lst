@@ -1,0 +1,4 @@
+com\example\helloWorld\config\ApplicationContextConfig.class
+com\example\helloWorld\config\SpringWebAppInitializer.class
+com\example\helloWorld\config\WebMvcConfig.class
+com\example\helloWorld\controller\HelloWorldController.class
